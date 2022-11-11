@@ -9,7 +9,7 @@ Desafio SICREDI - Sistema de criação de votação de pautas
   ### Banco de dados
   * Baixar e instalar o banco de dados postgres
   * Criar um usuario e senha para o seu banco no processo de instalação
-  * Mudar a senha e usuário no application.yml para o usuário e senha que foi criado no processo de isntalação do banco (Mudar: linha 16 campo username e linha 17 compo password)
+  * Mudar a senha e usuário no application.yml para o usuário e senha que foi criado no processo de isntalação do banco (Mudar: linha 16 campo username e linha 17 campo password)
   * Criar um databese chamado agenda
   * Rodar o conteúdo do arquivo **banco_dados.sql**
 
